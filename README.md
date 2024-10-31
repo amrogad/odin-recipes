@@ -1,0 +1,1 @@
+A simple recipe website containing basic HTML code that shows how to use images, links, lists..etc.
